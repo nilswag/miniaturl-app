@@ -1,0 +1,6 @@
+[submodule "miniaturl-api"]
+	path = miniaturl-api
+	url = git@github.com:nilswag/miniaturl-api.git
+[submodule "miniaturl"]
+	path = miniaturl
+	url = git@github.com:nilswag/miniaturl.git
